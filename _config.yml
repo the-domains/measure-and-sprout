@@ -1,0 +1,28 @@
+name: 'Measure & Sprout'
+favicon: null
+layout_spectrum: 0.35417299275286496
+typography_spectrum: 0.04879720322787762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4986231147777289
+  lightness: 0.14063268899917603
+  saturation: 0.779653036268428
+  rhythmicContrast: 0.543959688860923
+purpose: []
